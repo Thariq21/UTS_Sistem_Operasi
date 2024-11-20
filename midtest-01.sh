@@ -71,4 +71,3 @@ echo ${THIRDPOSITIONSPORTSCAR} | cut -d' ' -f7
 echo ''
 echo 'This is the list of all Sports Car which came from THIRD-POSITION-SPORTSCAR :'
 echo ${THIRDPOSITIONSPORTSCAR}
-Cek
